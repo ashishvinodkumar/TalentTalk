@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+scrapy
+openai
+pandas
+python-multipart
+python-dotenv
+pydantic
+requests
+beautifulsoup4
